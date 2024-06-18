@@ -113,10 +113,10 @@ analytics:
 # Site Author
 author:
   name             : "David Cunillera Montcusí"
-  avatar           : "C:/Users/David CM/Dropbox/DAVID DOC/LLAM al DIA/Myself_4.jpg"
-  bio              : "I am a person in Leipzig"
+  avatar           : "assets/images/Myself_4.jpg"
+  bio              : "Bla bla bla bla yes! Interesting discussion"
   location         : "Leipzig"
-  email            :
+  email            : "david.cunillera@dcm.cat"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
