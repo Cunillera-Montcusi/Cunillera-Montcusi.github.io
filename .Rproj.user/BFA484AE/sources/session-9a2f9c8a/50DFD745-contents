@@ -113,9 +113,9 @@ analytics:
 # Site Author
 author:
   name             : "David Cunillera Montcusí"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "C:/Users/David CM/Dropbox/DAVID DOC/LLAM al DIA/Myself_4.jpg"
   bio              : "I am a person in Leipzig"
-  location         : "Somewhere"
+  location         : "Leipzig"
   email            :
   links:
     - label: "Email"
