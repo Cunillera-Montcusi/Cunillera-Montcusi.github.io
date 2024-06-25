@@ -326,7 +326,7 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
-      values:
+    values:
       layout: single
       author_profile: true
         header:
